@@ -1,2 +1,1 @@
-# Hello-World
-This will be used for the demo of using GitHub
+# This was used to produce a new commit in the repository
